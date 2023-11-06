@@ -1,0 +1,8 @@
+ParameterCellArray = get_param(gcb, 'DialogParameters')
+
+get(get_param(gcb,'handle'))
+
+get_param(gcb,'ObjectParameters')
+
+https://la.mathworks.com/help/simulink/slref/common-block-parameters.html
+https://la.mathworks.com/help/simulink/ug/approach-modeling-programmatically.html#f4-93649
